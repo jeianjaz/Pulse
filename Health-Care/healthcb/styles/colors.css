@@ -1,0 +1,34 @@
+:root {
+  /* Primary gradient colors */
+  --primary: 199 77% 71%;      /* #79CEED */
+  --primary-light: 194 63% 86%; /* #C5E7F1 */
+  
+  /* Secondary gradient colors */
+  --secondary: 198 98% 48%;    /* #06AFEC */
+  --secondary-light: 199 95% 74%; /* #7FD6FB */
+  
+  /* Gradient variables */
+  --gradient-start: #79CEED;
+  --gradient-end: #C5E7F1;
+  --gradient-secondary-start: #06AFEC;
+  --gradient-secondary-end: #7FD6FB;
+
+  /* Theme colors using the blue palette */
+  --background: 194 63% 86%;
+  --foreground: 199 77% 71%;
+  --card: 194 63% 86%;
+  --card-foreground: 199 77% 71%;
+  --popover: 194 63% 86%;
+  --popover-foreground: 199 77% 71%;
+  --primary-foreground: 0 0% 100%;
+  --secondary-foreground: 0 0% 100%;
+  --muted: 194 63% 86%;
+  --muted-foreground: 199 77% 71%;
+  --accent: 198 98% 48%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 199 77% 71%;
+  --input: 199 77% 71%;
+  --ring: 199 77% 71%;
+}

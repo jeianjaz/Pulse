@@ -1,0 +1,16 @@
+@import './colors.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .gradient-bg {
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  }
+  
+  .gradient-text {
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
