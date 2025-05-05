@@ -87,9 +87,6 @@ npm install
 npm run dev
 ```
 
-## 📱 Screenshots
-
-*[Add screenshots of your application here]*
 
 ## 📄 License
 
